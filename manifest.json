@@ -1,0 +1,11 @@
+{
+    "name": "Pomodoro Timer",
+    "version": "1.0.0",
+    "description": "Pomodoro Timer to schedule your day!",
+    "manifest_version": 3,
+    "author": "Linas Gierga",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Pomodoro Timer"
+    }
+}
